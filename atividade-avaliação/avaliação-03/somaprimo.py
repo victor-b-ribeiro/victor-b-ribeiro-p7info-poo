@@ -9,7 +9,6 @@ while conta < n:
            primo = False
            break
     if primo:
-        print(num)
         soma += num
         conta += 1
     num += 1
